@@ -1,4 +1,5 @@
-[![Contributors][contributors-shield]][contributors-url]
+<a name="readme-top"></a>
+![Contributors][contributors-shield]
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 
