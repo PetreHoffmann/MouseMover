@@ -1,8 +1,3 @@
-<a name="readme-top"></a>
-![Contributors][contributors-shield]
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-
 # Mouse Mover
 
 Mouse Mover is a WPF (Windows Presentation Foundation) application written in C# that moves the mouse cursor randomly on the screen to prevent the Windows computer from locking the session due to inactivity. It can be useful in scenarios where you want to keep your computer awake or prevent the screen from locking while performing a specific task.
