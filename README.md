@@ -10,32 +10,17 @@ Mouse Mover is a WPF (Windows Presentation Foundation) application written in C#
 
 ## Requirements
 
-- Windows operating system (Windows 7 or later).
-- .NET Framework or .NET Core (depending on the version of the application).
+- Windows operating system (Windows 10 or later).
+- .NET Framework.
 
 ## Usage
 
-1. Download the latest release of the Mouse Mover application from the [releases](https://github.com/your-username/mouse-mover/releases) page.
+1. Download the latest release of the Mouse Mover application from the [releases](https://github.com/petrehoffmann/mousemover/releases) page.
 2. Install the application by running the setup executable.
-3. Launch the Mouse Mover application.
+3. Launch the Mouse Mover application from start menu.
 4. Adjust the interval between mouse movements using the provided options.
 5. Click the "Start" button to begin moving the mouse cursor randomly.
-6. To stop the mouse movement, click the "Stop" button or close the application.
-
-## Development
-
-If you want to build or modify the Mouse Mover application, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/mouse-mover.git`
-2. Open the project in your preferred IDE (e.g., Visual Studio).
-3. Make the necessary modifications or enhancements.
-4. Build the project to generate the executable.
-5. Test the application locally.
-6. Create a pull request with your changes if you'd like to contribute.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. We appreciate your contributions!
+6. To stop the mouse movement, click the "Stop" button on System Tray icon.
 
 ## License
 
